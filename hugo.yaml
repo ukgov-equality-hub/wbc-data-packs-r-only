@@ -1,0 +1,14 @@
+baseURL: '/'
+languageCode: 'en-gb'
+title: "Womens Business Council data pack"
+
+params:
+  govuk: true
+  product: "Womens Business Council data pack"
+  logo: crown
+  accessibility: accessibility.html
+  cookies: cookies.html
+  builtby: "Equality Hub"
+  builtbyurl: "https://www.gov.uk/government/organisations/the-equality-hub"
+  phase: alpha
+  feedbackurl: https://your.site/feedback
