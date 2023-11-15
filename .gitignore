@@ -4,3 +4,9 @@
 .Ruserdata
 
 .idea
+
+/public/
+/content/
+
+.hugo_build.lock
+rmd.log
