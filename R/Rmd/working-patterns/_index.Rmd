@@ -1,0 +1,9 @@
+---
+type: post
+section: "working-patterns//"
+weight: 300
+title: "Working patterns"
+listpages: true
+---
+
+TODO some text on the "Working patterns" page

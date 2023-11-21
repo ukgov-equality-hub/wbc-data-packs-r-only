@@ -1,0 +1,9 @@
+---
+type: post
+section: "employment-by-sector//"
+weight: 200
+title: "Employment by sector"
+listpages: true
+---
+
+TODO some text on the "Employment by sector" page

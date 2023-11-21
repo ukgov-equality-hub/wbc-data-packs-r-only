@@ -1,0 +1,9 @@
+---
+type: post
+section: "employment-rates//"
+weight: 200
+title: "Self-employment"
+summary: "Female self-employment %"
+---
+
+TODO some text on the "Self-employment" page

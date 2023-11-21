@@ -1,0 +1,17 @@
+---
+type: post
+section: "employment-by-sector//"
+weight: 100
+title: "Employment by industry"
+summary: "Female employment by industry %"
+---
+
+TODO some text on the "Employment by industry" page
+
+## H2
+
+### H3
+
+Body text
+
+Some <b>bold</b> text

@@ -1,0 +1,17 @@
+---
+type: post
+section: "employment-by-sector//"
+weight: 200
+title: "Employment by occupation"
+summary: "Female employment by occupation %"
+---
+
+TODO some text on the "Employment by occupation" page
+
+<h2> H2 </h2>
+
+### H3
+
+Body text
+
+Some <b>bold</b> text

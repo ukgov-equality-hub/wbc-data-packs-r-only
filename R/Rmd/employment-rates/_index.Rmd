@@ -1,0 +1,9 @@
+---
+type: post
+section: "employment-rates//"
+weight: 100
+title: "Employment rates"
+listpages: true
+---
+
+TODO some text on the "Employment rates" page

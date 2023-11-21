@@ -1,0 +1,9 @@
+---
+type: post
+section: "attitudes//"
+weight: 800
+title: "Attitudes"
+listpages: true
+---
+
+TODO some text on the "Attitudes" page

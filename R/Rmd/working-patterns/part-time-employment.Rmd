@@ -1,0 +1,17 @@
+---
+type: post
+section: "working-patterns//"
+weight: 100
+title: "Part-time employment"
+summary: "Female employment (part-time) %"
+---
+
+TODO some text on the "Part-time employment" page
+
+## H2
+
+### H3
+
+Body text
+
+Some <b>bold</b> text

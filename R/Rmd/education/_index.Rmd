@@ -1,0 +1,9 @@
+---
+type: post
+section: "education//"
+weight: 700
+title: "Education"
+listpages: true
+---
+
+TODO some text on the "Education" page
