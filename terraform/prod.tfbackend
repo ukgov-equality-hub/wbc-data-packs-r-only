@@ -1,0 +1,3 @@
+bucket = "uk-gov-equality-hub-terraform-state-bucket"
+key = "wbc_data_packs_r_only_prod.tfstate"
+region = "eu-west-2"
